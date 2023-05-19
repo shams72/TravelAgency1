@@ -213,6 +213,8 @@ void holiday::on_BuchungenBox_itemDoubleClicked(QTableWidgetItem *item)
 {
     Booking* d=nullptr;
     for(auto a:travel.alltravels){
+        if(a->gettravelid()==id.back()){
+
 
         Booking* c =a->bokingliste[item->tableWidget()->row(item)];
         for(auto b:a->bokingliste){
@@ -221,6 +223,7 @@ void holiday::on_BuchungenBox_itemDoubleClicked(QTableWidgetItem *item)
             d=b;
 
             }
+         }
         }
     }
 

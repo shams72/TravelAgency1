@@ -33,10 +33,6 @@ TravelAgency is a travel management application developed using QT-GUI & C++. It
 
 - Click on the `ABC Analyse` button to perform an ABC analysis.
 
-## Screenshot
-
-![Screenshot of TravelAgenza](https://github.com/user-attachments/assets/f4560410-b9fe-4f1c-8be1-dcaacaa4d7f2)
-
 ## *Disclaimer
 
 <span style="color: red;">This software has not been maintained for some time, and some bugs may remain unaddressed due to the addition of new features.</span>

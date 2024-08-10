@@ -1,8 +1,8 @@
-# TravelAgencya Software*
+# TravelAgency Software.<sup>*</sup>
 
 ## Overview
 
-TravelAgenza is a travel management application developed in C99. It can detect errors in bookings and perform ABC analysis. Users can also add new users and manage bookings through a user-friendly interface.
+TravelAgency is a travel management application developed using QT-GUI & C++. It can detect errors in bookings and perform ABC analysis. Users can also add new bookings and manage bookings through a user-friendly interface.
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ TravelAgenza is a travel management application developed in C99. It can detect 
 
 1. **Load Information Data:**
    - Go to the top left menu and select `Einlesen -> InformationAnzeigen`.
-   - Choose the `Information.json` file.
+   - Choose the `Kundnen-Information.json` file.
 
 2. **Load Flight Information:**
    - Go to the top left menu and select `Einlesen -> InformationAnzeigen`.
@@ -37,6 +37,6 @@ TravelAgenza is a travel management application developed in C99. It can detect 
 
 ![Screenshot of TravelAgenza](https://github.com/user-attachments/assets/f4560410-b9fe-4f1c-8be1-dcaacaa4d7f2)
 
-## Disclaimer
+## *Disclaimer
 
 <span style="color: red;">This software has not been maintained for some time, and some bugs may remain unaddressed due to the addition of new features.</span>

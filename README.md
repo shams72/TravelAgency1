@@ -35,4 +35,4 @@ TravelAgency is a travel management application developed using QT-GUI & C++. It
 
 ## *Disclaimer
 
-<span style="color: red;">This software has not been maintained for some time, and some bugs may remain unaddressed due to the addition of new features.</span>
+<span style="color: red;">This software has not been maintained for some time, and some bugs may remain unaddressed which might have caused due to the addition of new features previoulsy.</span>

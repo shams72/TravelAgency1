@@ -14,11 +14,11 @@ TravelAgency is a travel management application developed using QT-GUI & C++. It
 ### Importing Data
 
 1. **Load Information Data:**
-   - Go to the top left menu and select `Einlesen -> InformationAnzeigen`.
+   - Navigate to the top left menu and select `Einlesen -> InformationAnzeigen`.
    - Navigate `Read File->kunde-info.json`.
 
 2. **Load Flight Information:**
-   - Go to the top left menu and select `Einlesen -> Show Airport`.
+   - Navigate to the top left menu and select `Einlesen -> Show Airport`.
    - Navigate `Read File->flight-info.json`.
 
 ### Managing Bookings

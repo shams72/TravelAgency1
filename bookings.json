@@ -1,0 +1,429 @@
+[
+    {
+        "Airline": "United Airlines",
+        "FromDate": "20210104",
+        "Price": "1499.000000",
+        "ToDate": "20210109",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "United Airlines",
+        "FromDate": "20210109",
+        "Price": "1358.000000",
+        "ToDate": "20210110",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Air France",
+        "FromDate": "20210608",
+        "Price": "330.000000",
+        "ToDate": "20210608",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Air France",
+        "FromDate": "20210612",
+        "Price": "290.000000",
+        "ToDate": "20210612",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Air Berlin",
+        "FromDate": "20210201",
+        "Price": "258.030000",
+        "ToDate": "20210201",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Air Berlin",
+        "FromDate": "20210201",
+        "Price": "251.030000",
+        "ToDate": "20210201",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Vueling Airlines",
+        "FromDate": "20210401",
+        "Price": "316.010000",
+        "ToDate": "20210401",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Vueling Airlines",
+        "FromDate": "20210404",
+        "Price": "288.930000",
+        "ToDate": "20210404",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Scandinavian Airlines",
+        "FromDate": "20210802",
+        "Price": "199.640000",
+        "ToDate": "20210802",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210713",
+        "Price": "7905.540000",
+        "ToDate": "20210714",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "South African Airways",
+        "FromDate": "20210714",
+        "Price": "275.430000",
+        "ToDate": "20210714",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "South African Airways",
+        "FromDate": "20210727",
+        "Price": "289.260000",
+        "ToDate": "20210727",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210727",
+        "Price": "7764.220000",
+        "ToDate": "20210728",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210602",
+        "Price": "277.010000",
+        "ToDate": "20210603",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210603",
+        "Price": "288.930000",
+        "ToDate": "20210603",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210604",
+        "Price": "2892.040000",
+        "ToDate": "20210605",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "TAM Linhas Aéreas",
+        "FromDate": "20210605",
+        "Price": "234.910000",
+        "ToDate": "20210605",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "TAM Linhas Aéreas",
+        "FromDate": "20210617",
+        "Price": "224.190000",
+        "ToDate": "20210617",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210617",
+        "Price": "2634.240000",
+        "ToDate": "20210618",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Indian Airlines",
+        "FromDate": "20210323",
+        "Price": "3298.080000",
+        "ToDate": "20210323",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Jet Airways",
+        "FromDate": "20210325",
+        "Price": "218.780000",
+        "ToDate": "20210325",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Singapur Airlines",
+        "FromDate": "20210328",
+        "Price": "2778.180000",
+        "ToDate": "20210329",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "All Nippon Airways",
+        "FromDate": "20210329",
+        "Price": "2543.210000",
+        "ToDate": "20210329",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210402",
+        "Price": "4543.210000",
+        "ToDate": "20210402",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Vueling Airlines",
+        "FromDate": "20210503",
+        "Price": "304.010000",
+        "ToDate": "20210503",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Vueling Airlines",
+        "FromDate": "20210505",
+        "Price": "283.930000",
+        "ToDate": "20210505",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Air Berlin",
+        "FromDate": "20210101",
+        "Price": "258.030000",
+        "ToDate": "20210101",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Air Berlin",
+        "FromDate": "20210112",
+        "Price": "251.030000",
+        "ToDate": "20210112",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Austrian Airlines",
+        "FromDate": "20210809",
+        "Price": "187.930000",
+        "ToDate": "20210814",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Austrian Airlines",
+        "FromDate": "20210814",
+        "Price": "167.010000",
+        "ToDate": "20210814",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Rhein-Neckar Air",
+        "FromDate": "20210313",
+        "Price": "145.000000",
+        "ToDate": "20210313",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Scandinavian Airlines",
+        "FromDate": "20210321",
+        "Price": "245.000000",
+        "ToDate": "20210321",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Rhein-Neckar Air",
+        "FromDate": "20210321",
+        "Price": "165.000000",
+        "ToDate": "20210321",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210216",
+        "Price": "2099.000000",
+        "ToDate": "20210216",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "United Airlines",
+        "FromDate": "20210222",
+        "Price": "300.000000",
+        "ToDate": "20210222",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "AirCanada",
+        "FromDate": "20210225",
+        "Price": "250.490000",
+        "ToDate": "20210225",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Air Canada",
+        "FromDate": "20210228",
+        "Price": "1850.000000",
+        "ToDate": "20210301",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210402",
+        "Price": "1799.000000",
+        "ToDate": "20210402",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Delta Airlines",
+        "FromDate": "20210404",
+        "Price": "299.000000",
+        "ToDate": "20210404",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Southwest Airlines",
+        "FromDate": "20210408",
+        "Price": "260.490000",
+        "ToDate": "20210408",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Virgin America",
+        "FromDate": "20210412",
+        "Price": "133.200000",
+        "ToDate": "20210412",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210415",
+        "Price": "2594.210000",
+        "ToDate": "20210416",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210501",
+        "Price": "2332.210000",
+        "ToDate": "20210502",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210510",
+        "Price": "2463.020000",
+        "ToDate": "20210510",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Austrian Airlines",
+        "FromDate": "20210301",
+        "Price": "167.010000",
+        "ToDate": "20210301",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Austrian Airlines",
+        "FromDate": "20210302",
+        "Price": "167.010000",
+        "ToDate": "20210302",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210309",
+        "Price": "2504.010000",
+        "ToDate": "20210309",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Air Canada",
+        "FromDate": "20210313",
+        "Price": "3104.010000",
+        "ToDate": "20210314",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210904",
+        "Price": "2892.040000",
+        "ToDate": "20210905",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "TAM Linhas Aereas",
+        "FromDate": "20210905",
+        "Price": "234.610000",
+        "ToDate": "20210905",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "TAM Linhas Aereas",
+        "FromDate": "20210917",
+        "Price": "224.130000",
+        "ToDate": "20210917",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20210917",
+        "Price": "2674.340000",
+        "ToDate": "20210918",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Delta Airlines",
+        "FromDate": "20211012",
+        "Price": "3112.120000",
+        "ToDate": "20211012",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Delta Airlines",
+        "FromDate": "20211016",
+        "Price": "256.420000",
+        "ToDate": "20211016",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Air Canada",
+        "FromDate": "20211018",
+        "Price": "215.780000",
+        "ToDate": "20211018",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Air Canada",
+        "FromDate": "20211023",
+        "Price": "2998.650000",
+        "ToDate": "20211024",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "TAP Air Portugal",
+        "FromDate": "20210820",
+        "Price": "311.430000",
+        "ToDate": "20210820",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Air France",
+        "FromDate": "20211115",
+        "Price": "317.230000",
+        "ToDate": "20211115",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Air France",
+        "FromDate": "20211115",
+        "Price": "2953.540000",
+        "ToDate": "20211116",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "KLM Royal Dutch Airlines",
+        "FromDate": "20211120",
+        "Price": "490.840000",
+        "ToDate": "20211120",
+        "Type": "Flight"
+    },
+    {
+        "Airline": "Lufthansa",
+        "FromDate": "20211126",
+        "Price": "8017.540000",
+        "ToDate": "20211127",
+        "Type": "Flight"
+    }
+]

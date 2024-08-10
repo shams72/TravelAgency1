@@ -1,0 +1,18 @@
+
+#ifndef BOOKING_TRAVEL_H
+#define BOOKING_TRAVEL_H
+#include<iostream>
+
+
+
+class Fehlermeldung
+{
+public:
+    bool hatfehler;
+    std::string fehlername;
+    std::string zusammenfassung;
+    Fehlermeldung();
+
+};
+
+#endif // BOOKING_TRAVEL_H
